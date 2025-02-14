@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi , I'm Denilson Perez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I started coding when I was 17 years old. From a young age, I knew I wanted to be a developer. I have 1 year of experience in backend and frontend development. I want to continue applying my knowledge in the development of technological tools and keep expanding my skills every day.
+I started coding when I was 17 years old. From a young age, I knew I wanted to be a developer. 👨🏻‍💻
+I have 1 year of experience in backend development. 
 
 ## My Skills Include
 
