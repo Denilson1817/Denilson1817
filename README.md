@@ -13,6 +13,7 @@ I have 1 year of experience in backend development.
     <img src="https://skillicons.dev/icons?i=javascript">
     <img src="https://skillicons.dev/icons?i=java">
     <img src="https://skillicons.dev/icons?i=py">
+    <img src="https://skillicons.dev/icons?i=php">
 </p>
 
 <h4>Frameworks</h4>
@@ -36,6 +37,7 @@ I have 1 year of experience in backend development.
     <img src="https://skillicons.dev/icons?i=postman">
     <img src="https://skillicons.dev/icons?i=figma">
     <img src="https://skillicons.dev/icons?i=docker">
+    <img src="https://skillicons.dev/icons?i=linux">
 </p>
 
 <h4>Contact</h4>
