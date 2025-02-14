@@ -1,13 +1,6 @@
 <h1 align="center"><b>Hi , I'm Denilson Perez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm a 7th semester student of Administrative Computer Systems Engineering at Universidad Veracruzana.
-
-- 🔭 I’m currently focusing on:
-    - Web Development
-- 🌱 I'm a self-taught individual who enjoys facing challenges that allow me to gain experience day by day. I thrive in collaborative environments, working alongside my peers to grow together.
-- :bulb: I'm interested in:
-    - Prototype Design
-    - Artificial Intelligence
+I started coding when I was 17 years old. From a young age, I knew I wanted to be a developer. I have 1 year of experience in backend and frontend development. I want to continue applying my knowledge in the development of technological tools and keep expanding my skills every day.
 
 ## My Skills Include
 
