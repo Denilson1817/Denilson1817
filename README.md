@@ -24,14 +24,8 @@ I have 1 year of experience in backend development.
 <h4>Databases</h4>
 <p>
     <img src="https://skillicons.dev/icons?i=postgres">
+    <img src="https://skillicons.dev/icons?i=mysql">
     <img src="https://skillicons.dev/icons?i=mongodb">
-</p>
-
-<h4>IDE</h4>
-<p>
-    <img src="https://skillicons.dev/icons?i=idea">
-    <img src="https://skillicons.dev/icons?i=pycharm">
-    <img src="https://skillicons.dev/icons?i=vscode">
 </p>
 
 <h4>Other Tools and Technologies</h4>
