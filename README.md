@@ -46,7 +46,7 @@ I have 1 year of experience in backend development.
 
 <h4>Contact</h4>
 <p>	
-  <a target="_blank" href="www.linkedin.com/in/denilson-perez-cortina">
+  <a target="_blank" href="https://www.linkedin.com/in/denilson-perez-cortina/">
       <img src="https://skillicons.dev/icons?i=linkedin"></img>
   </a>
   <a target="_blank" href="mailto:denilson_peco@hotmail.com">
