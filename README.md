@@ -14,6 +14,8 @@ I have 1 year of experience in backend development.
     <img src="https://skillicons.dev/icons?i=java">
     <img src="https://skillicons.dev/icons?i=py">
     <img src="https://skillicons.dev/icons?i=php">
+    <img src="https://skillicons.dev/icons?i=dart">
+    <img src="https://skillicons.dev/icons?i=kotlin">
 </p>
 
 <h4>Frameworks</h4>
