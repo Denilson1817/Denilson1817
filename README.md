@@ -20,6 +20,8 @@ I have 1 year of experience in backend development.
 <p>
     <img src="https://skillicons.dev/icons?i=spring">
     <img src="https://skillicons.dev/icons?i=fastapi">
+    <img src="https://skillicons.dev/icons?i=angular">
+    <img src="https://skillicons.dev/icons?i=react">
 </p>
 
 <h4>Databases</h4>
