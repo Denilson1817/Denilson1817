@@ -55,6 +55,6 @@ I have 1 year of experience in backend development.
 </p>
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirofg&show_icons=true&count_private=true&theme=dark)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JiroFg&theme=dark&hide_border=false)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denilson1817&show_icons=true&count_private=true&theme=dark)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Denilson1817&theme=dark&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denilson1817&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
