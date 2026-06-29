@@ -2,7 +2,6 @@
 
 I started coding when I was 17 years old. From a young age, I knew I wanted to be a developer. 👨🏻‍💻
 <br>
-I have 1 year of experience in backend development. 
 
 ## My Skills Include
 
