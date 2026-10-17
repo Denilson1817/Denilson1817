@@ -40,7 +40,6 @@ I started coding when I was 17 years old. From a young age, I knew I wanted to b
     <img src="https://skillicons.dev/icons?i=postman">
     <img src="https://skillicons.dev/icons?i=figma">
     <img src="https://skillicons.dev/icons?i=docker">
-    <img src="https://skillicons.dev/icons?i=linux">
 </p>
 
 <h4>Contact</h4>
